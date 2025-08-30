@@ -5,9 +5,9 @@ const CUSTOMER_SITES = {
     },
  dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-       name: '电影天堂资源',
+        name: '电影天堂资源',
     },
-heimuer": {
+heimuer: {
       api: 'https://json.heimuer.xyz/api.php/provide/vod',
       name: '黑木耳',
     },
@@ -76,7 +76,7 @@ heimuer": {
       name: 'iKun资源',
     },
     lzi: {
-      api: "https://cj.lziapi.com/api.php/provide/vod',
+      api: 'https://cj.lziapi.com/api.php/provide/vod',
       name: '量子资源站',
     },
     xiaomaomi: {
